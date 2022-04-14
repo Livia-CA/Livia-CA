@@ -1,3 +1,8 @@
+<h2>Olá, seja bem-vindo!👋</h2>
+<p>Me chamo Livia Caetano de Andrade, sou formada pelo Instituto Federal de Mato Grosso do Sul no curso Técnico em Informática para Internet, no qual tive meu primeiro contato com a programação e desenvolvi grande afinidade pela área. Atualmente, estou matriculada em Engenharia de Computação na Universidade Federal da Grande Dourados, onde pretendo aprofundar meus conhecimentos e me desenvolver como estudante e profissional.👩‍💻 📖</p>
+
+##
+##
 <div align="center">
   <a href="https://github.com/Livia-CA">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Livia-CA&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
