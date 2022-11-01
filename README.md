@@ -9,7 +9,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia-CA&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
-<div align="center" style="display: inline_block"><br>
+<!--<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Livia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Livia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,6 +40,6 @@
   <a href="https://www.linkedin.com/in/liviacaetanodeandrade/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
+</div>-->
 
 
